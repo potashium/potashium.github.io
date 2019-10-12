@@ -34,4 +34,16 @@ The last question, #7, will hopefully be the first of many experiments I will be
 
 Now, to the questions.
 
-**What is the difference between baking soda and baking powder?**
+**1. What is the difference between baking soda and baking powder?**
+
+Baking soda is actually a core component of baking powder. Baking powder is composed of baking soda, an alkaline (basic, so above 7.0 on the pH scale), and a weak acid (usually cream of tartar in modern commercial production). The two are prevented from reacting when combined together by introducing a buffer such as corn starch (the reaction is sparked by water, so the corn starch acts as a dessicant of any excess moisture).
+
+Other weak acids commonly used for recipes include buttermilk, lemon juice, and vinegar, as well as the lesser-known acids honey and chocolate! (Pure cocoa powder is ~5.5 pH). 
+
+Buttermilk was a common ingredient in the Southern U.S. a few centuries ago. I used to think buttermilk was milk mixed with butter, but I realize what a silly assumption that is considering (1) butter is made from milk and (2) that would just be half-and-half milk. Instead, buttermilk is the leftover byproduct after churning butter. It's a fermented watery substance, traditionally nonfat, and comparable to yogurt in that it is acidic from containing numerous cultures. 
+
+Microbial cultures are basically live bacteria, yeasts, or mould that assist in the fermentation of various foods. As the bacteria eat the sugars in milk, they produce lactic acid, which gives products like yogurt and buttermilk a tart and tangy flavor. It also serves as a food safety measure, as most harmful bacteria can't survive around lactic acid. **Later, will add more about the process of the creation of yogurt/cheese**
+
+Rather than buttermilk, modern day baking powder recipes actually use cream of tartar, which historically was the least common acid because it comes from wine production, which was very expensive to be shipping over from the wine-loving Europe to America in the 19th century. Indeed, cream of tartar is scraped off the side of barrels after the fermentation of wine.
+
+Instead, the inventor of baking powder, a researcher at the lab in Harvard University boiled down the marrow of the bones of animals. After the creation of this, people no longer had to buy separate baking soda and an acid, and the baking powder production industry boomed into modern-day corporate America.
