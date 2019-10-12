@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "The Baking Soda Rabbit Hole"
 date: 2019-10-12
 ---
