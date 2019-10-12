@@ -4,16 +4,16 @@ title: "The Baking Soda Rabbit Hole"
 date: 2019-10-12
 ---
 
-*Before properly beginning this post, I feel an introductory paragraph might be necessary as this is the first ever post on this blog.
+*Before properly beginning this post, I feel an introductory paragraph might be necessary as this is the first ever post on this blog.*
 
-*Today, while looking up baking soda, I happened upon a lot of interesting information that I jotted down into a notebook, but was also inspired to start documenting some of this knowledge in a (at least slightly more permanent) way to both share my passion with cooking and also for myself to look back on in the future. Thus, this blog was born, with the totally uncreative name of Potashium, a combination of Potash and Potassium.
+*Today, while looking up baking soda, I happened upon a lot of interesting information that I jotted down into a notebook, but was also inspired to start documenting some of this knowledge in a (at least slightly more permanent) way to both share my passion with cooking and also for myself to look back on in the future. Thus, this blog was born, with the totally uncreative name of Potashium, a combination of Potash and Potassium.*
 
-*The majority of this blog will be an unstructured, largely unedited stream of consciousness. The reason for this are two-fold.
+*The majority of this blog will be an unstructured, largely unedited stream of consciousness. The reason for this are two-fold.*
 
-*(1) The more effort this blog takes, the less likely I will be to continue this
-*(2) I think the purpose of a blog includes maintaining a personal voice, an authenticity, that's difficult to preserve when things are too polished.
+1. *The more effort this blog takes, the less likely I will be to continue this*
+2. *I think the purpose of a blog includes maintaining a personal voice, an authenticity, that's difficult to preserve when things are too polished.*
 
-*Now, for the actual blog post.
+*Now, for the actual blog post.*
 
 Today I went down a rabbit hole for the history, properties, and use cases for baking soda which I'd like to share in this blog post.
 
