@@ -19,19 +19,19 @@ Today I went down a rabbit hole for the history, properties, and use cases for b
 
 There are a few motivating questions that got me curious on the topic to begin with.
 
-(1) What is the difference between baking soda and baking powder?
-(2) Why do people use vinegar and baking soda to neutralize odors in the house?
+1. What is the difference between baking soda and baking powder?
+2. Why do people use vinegar and baking soda to neutralize odors in the house?
 
 From these two questions, of course more sprang up along the way, which I will attempt to recreate as closely as possible to my original rabbit-hole quest. They went roughly as follows:
 
-(3) How is baking soda processed?
-(4) How was baking soda first discovered?
-(5) How is baking soda/baking powder different from yeast?
-(6) How are different pastries fluffed?
-(7) The ultimate question -- what's the optimal ratio of alkaline to acid for fluffy pancakes? 
+3. How is baking soda processed?
+4. How was baking soda first discovered?
+5. How is baking soda/baking powder different from yeast?
+6. How are different pastries fluffed?
+7. The ultimate question -- what's the optimal ratio of alkaline to acid for fluffy pancakes? 
 
 The last question, #7, will hopefully be the first of many experiments I will be conducting in my kitchen in the future. Before that happens, I will be sure to draft up an experimental procedure, and a database for logging my observations as I play around with different variables.
 
 Now, to the questions.
 
-**What is the difference between baking soda and baking powder?
+**What is the difference between baking soda and baking powder?**
