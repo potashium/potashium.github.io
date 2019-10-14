@@ -42,6 +42,15 @@ Baking soda is actually a core component of baking powder. Baking powder is comp
 
 Other weak acids commonly used for recipes include buttermilk, lemon juice, and vinegar, as well as the lesser-known acids honey and chocolate! (Pure cocoa powder is ~5.5 pH). 
 
+- Lemon (2.0)
+- Vinegar (2.4)
+- Honey (4.0)
+- Buttermilk (4.6)
+- Cream of tartar (5.0)
+- Cocoa (5.5)
+- Meat! (5.5)
+- Milke (6.6)
+
 Buttermilk was a common ingredient in the Southern U.S. a few centuries ago. I used to think buttermilk was milk mixed with butter, but I realize what a silly assumption that is considering (1) butter is made from milk and (2) that would just be half-and-half milk. Instead, buttermilk is the leftover byproduct after churning butter. It's a fermented watery substance, traditionally nonfat, and comparable to yogurt in that it is acidic from containing numerous cultures. 
 
 Microbial cultures are basically live bacteria, yeasts, or mould that assist in the fermentation of various foods. As the bacteria eat the sugars in milk, they produce lactic acid, which gives products like yogurt and buttermilk a tart and tangy flavor. It also serves as a food safety measure, as most harmful bacteria can't survive around lactic acid. <<Later, will add more about the process of the creation of yogurt/cheese>>
