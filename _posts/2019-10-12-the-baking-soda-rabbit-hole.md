@@ -47,3 +47,16 @@ Microbial cultures are basically live bacteria, yeasts, or mould that assist in 
 Rather than buttermilk, modern day baking powder recipes actually use cream of tartar, which historically was the least common acid because it comes from wine production, which was very expensive to be shipping over from the wine-loving Europe to America in the 19th century. Indeed, cream of tartar is scraped off the side of barrels after the fermentation of wine.
 
 Instead, the inventor of baking powder, a researcher at the lab in Harvard University boiled down the marrow of the bones of animals. After the creation of this, people no longer had to buy separate baking soda and an acid, and the baking powder production industry boomed into modern-day corporate America. I'll dig deeper into this during question #4.
+
+**2. Why do people use vinegar and baking soda for household cleaning?**
+
+As mentioned previously, baking soda is a basic alkali that produces water, salt, and carbon dioxide gas when mixed with an acid. The sources of many common household odors are acidic (the tart, pungent smell is usually the result of acidity). Therefore, mixing these smells with baking soda tends to neutralize these odors.
+
+Likewise, odors whose sources are basic are neutralized when mixed with vinegar. Any last remaining smells can be washed away physically by hot water.
+
+**3. How is baking soda processed?**
+There are two main sources (or, rather, processing traditions) for baking soda. First, is the method prevalent in the majority of the world: the **Solvay Process**, which uses limestone. Second, is the process used in the U.S., which uses trona ore.
+
+In the Solvay Process, carbon dioxide (CO2) is produced from limestone (CaCO3), which then reacts with ammonia (NH3) dissolved in brine water (NaCl). The result is sodium carbonate (NaHCO3).
+
+In the U.S., trona ore is mined directly from the ground either through carving out the mineral or by using hot water underground to dissolve the minerals. The resulting rocks are crushed into a powder and passed through multiple stages of water filtration to remove impurities. The slurry is then placed into a centrifuge to dehydrate the remaining crystals, which are then dried and send to strage bins for transport.
