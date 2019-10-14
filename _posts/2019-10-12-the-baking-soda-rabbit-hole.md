@@ -46,4 +46,4 @@ Microbial cultures are basically live bacteria, yeasts, or mould that assist in 
 
 Rather than buttermilk, modern day baking powder recipes actually use cream of tartar, which historically was the least common acid because it comes from wine production, which was very expensive to be shipping over from the wine-loving Europe to America in the 19th century. Indeed, cream of tartar is scraped off the side of barrels after the fermentation of wine.
 
-Instead, the inventor of baking powder, a researcher at the lab in Harvard University boiled down the marrow of the bones of animals. After the creation of this, people no longer had to buy separate baking soda and an acid, and the baking powder production industry boomed into modern-day corporate America.
+Instead, the inventor of baking powder, a researcher at the lab in Harvard University boiled down the marrow of the bones of animals. After the creation of this, people no longer had to buy separate baking soda and an acid, and the baking powder production industry boomed into modern-day corporate America. I'll dig deeper into this during question #4.
