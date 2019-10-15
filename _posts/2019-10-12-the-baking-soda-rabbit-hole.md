@@ -17,6 +17,8 @@ date: 2019-10-12
 *Now, for the actual blog post.*
 </span>
 
+## Motivating Questions
+
 Today I went down a rabbit hole for the history, properties, and use cases for baking soda which I'd like to share in this blog post.
 
 There are a few motivating questions that got me curious on the topic to begin with.
@@ -36,7 +38,7 @@ From these two questions, of course more sprang up along the way, which I will a
 
 The last question, #7, will hopefully be the first of many experiments I will be conducting in my kitchen in the future. Before that happens, I will be sure to draft up an experimental procedure, and a database for logging my observations as I play around with different variables.
 
-Now, to the questions.
+## Answers
 
 **1. What is the difference between baking soda and baking powder?**
 
@@ -68,6 +70,7 @@ As mentioned previously, baking soda is a basic alkali that produces water, salt
 Likewise, odors whose sources are basic are neutralized when mixed with vinegar. Any last remaining smells can be washed away physically by hot water.
 
 **3. How is baking soda processed?**
+
 There are two main sources (or, rather, processing traditions) for baking soda. First, is the method prevalent in the majority of the world: the **Solvay Process**, which uses limestone. Second, is the process used in the U.S., which uses trona ore.
 
 In the Solvay Process, carbon dioxide (CO2) is produced from limestone (CaCO3), which then reacts with ammonia (NH3) dissolved in brine water (NaCl). The result is sodium carbonate (NaHCO3).
@@ -115,10 +118,9 @@ Actually, the Maillard reaction also occurs in processes such as in the producti
 This relates back to baking soda because alkali environments are the most conducive to the Maillard reaction, so adding more baking soda to pancakes will cause them to brown more. This is because alkali "loosen" protons in the amino acids/reducing sugars (by contrast, amino acids will hold onto their protons in the presence of acids). However, adding too much baking soda causes too violent of a reaction with the acids, which results in the CO2 bubbles forming to rapidly and the pancake will "pop". 
 
 
+**9. The ultimate question -- what's the optimal ratio of alkaline to acid for fluffy pancakes?**
 
-9. The ultimate question -- what's the optimal ratio of alkaline to acid for fluffy pancakes? 
-
-**Other fun facts/notes about baking soda**
+## Other fun facts/notes
 
 1. Bases are bitter if not neutralized by an acid, so you don't want to use too much baking soda in your recipes
 2. When baking soda is mixed with an acid, the precursor to CO2 gas is carbonic acid, which is a slightly acidic liquid that's used in carbonated beverages
