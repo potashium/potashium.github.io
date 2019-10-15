@@ -4,7 +4,7 @@ title: "The Baking Soda Rabbit Hole"
 date: 2019-10-12
 ---
 
-<span class="intro">*Before properly beginning this post, I feel an introductory paragraph might be necessary as this is the first ever post on this blog.*</span>
+*Before properly beginning this post, I feel an introductory paragraph might be necessary as this is the first ever post on this blog.*
 
 *Today, while looking up baking soda, I happened upon a lot of interesting information that I jotted down into a notebook, but was also inspired to start documenting some of this knowledge in a (at least slightly more permanent) way to both share my passion with cooking and also for myself to look back on in the future. Thus, this blog was born, with the totally uncreative name of Potashium, a combination of Potash and Potassium.*
 
@@ -13,7 +13,7 @@ date: 2019-10-12
 1. *The more effort this blog takes, the less likely I will be to continue this*
 2. *I think the purpose of a blog includes maintaining a personal voice, an authenticity, that's difficult to preserve when things are too polished.*
 
-<span class="intro">*Now, for the actual blog post.*</span>
+*Now, for the actual blog post.*
 
 ## Motivating Questions
 
