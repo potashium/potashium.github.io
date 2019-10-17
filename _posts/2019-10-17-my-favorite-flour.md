@@ -4,7 +4,7 @@ title: "My Favorite Flour"
 date: 2019-10-17
 ---
 
-*Breads are one of my favorite foods, as I can imagine is the case for many people. Who doesn't love carbs? More specifically, who doesn't love that feeling of biting into a soft but slightly chewy, moist, slightly sweet piece of bread with that faint yeasty air enveloping your taste buds?*
+*Breads are one of my favorite foods, as I can imagine is the case for many people. Who doesn't love carbs? More specifically, who doesn't love that feeling of biting into a soft but slightly chewy, moist, slightly sweet piece of bread with that faint yeasty aroma enveloping your taste buds?*
 
 *In slightly more seriousness, another reason flour has a special place on my palate is a particularly fond memory I have with one of my loved ones. This particular loved one is from a part of the world that has a very endearing accent when speaking English that I find incredibly adorable, though he finds repulsive and unrefined. Anyway, one day we were going out to make a pie from scratch, including the crust. I asked him to look up the ingredients and dictate them outloud while I transcribed -- "Eggs, milk... fla". So I wrote down... eggs, milk, and fla.*
 
