@@ -19,16 +19,48 @@ date: 2019-10-17
 As I was preparing the last post on baking soda, particularly in reading up on its uses for fluffiness, I frequently came across notes that an equally important factor is the type of flour one uses. Unsurprisingly, this led to a second trip down the rabbit hole, but this time on the various types and properties of flour. Motivating this blog post are the following questions:
 
 1. What are the general types of flour you will find in a grocery store, and what are their primary differences?
-2. What is the flour bleaching process?
-3. What different flours should you use for different types of pastries?
-4. What is the history of flour?
+2. What is the difference between hard and soft wheat?
+3. What is the flour bleaching process?
+4. What is the role of acidity in baking?
+5. What is the history of flour?
+
+<<Another day, I will do a post exploring the different types of grains>>
 
 ## Results
 
 ### 1. Types of flour
 
-### 2. Flour bleaching process
+There are 10 broad types of flour you will find in the supermarket:
 
-### 3. Types of flour and their uses in pastries
+1. All-purpose flour (10-12%)
+2. Bread flour (14-16%)
+3. Cake flour (7%)
+4. Pastry flour (9%)
+5. Whole wheat flour
+6. White whole wheat flour
+7. Oat flour
+8. Semolina
+9. Rice flour
+10. Corn flour (corn meal is the same, just ground less fine)
 
-### 4. History of flour
+The main difference between these types of flour will be the type of wheat that's used: hard or soft. These types of wheat differ in their protein and starch content - hard flours typically have more protein, which generates more gluten, leading to tougher pastries (but the gluten also traps and holds air bubbles petter). I have listed the protein content in parentheses above.
+
+To increase the amount of protein or gluten in a bag of flour, you can add a few tablespoons of vital wheat gluten.
+
+To decrease the amount of protein, you can add a few tablespoons of corn starch.
+
+### 2. Hard vs. soft wheat
+
+The difference between flour and starch is that flour is typically made by grinding the entire kernel of wheat/corn/rice, and therefore contains all nutrients like protein, fiber, starch, nutrients, and vitamins and minerals as with usual whole corn. Meanwhile, starch is made by only grinding the starchy center called the endosperm.
+
+### 3. Flour bleaching process
+
+Unbleached flours are actually still bleached, just naturally by being allowed to sit instead of chemically through a bleaching process.
+
+The flour bleaching process typically creates a more acidic flour (see the next section on the role of acidity in baking)
+
+### 4. Acidity and baking
+
+Acidity helps baked goods with a large amount of sugar and low amounts of gluten to rise instead of collapse.
+
+### 5. History of flour
