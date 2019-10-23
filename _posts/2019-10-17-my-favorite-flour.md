@@ -65,6 +65,17 @@ To increase the amount of protein or gluten in a bag of flour, you can add a few
 
 To decrease the amount of protein, you can add a few tablespoons of corn starch.
 
+>> There are also some fun flours that are not commonly used in the U.S., but are used in other cuisines around the world. They include:
+
+1. Cassava flour - a thickener in Brazilian stews and Nigerian cooking
+2. Chickpea flour - higher in protein, used in cooking from India
+3. Chapati flour - made of wheat and malted barley flours, used to make Indian chapatis
+4. Dal flour - legume flour used in Indian cooking
+5. Fufu flour - made from dried plantain and used in Nigerian recipes
+6. Kamut flour - made from the ancient Egyptian grain kamut
+7. Millet flour - used in India and Pakistan
+8. Teff flour - used in Ethiopian flatbread
+
 ### 2. Hard vs. soft wheat, white vs. whole wheat
 
 _White vs. whole wheat_: Wheat seed heads have three portions: the germ, the bran, and the endosperm. White flour includes just the endosperm (so it's basically like corn starch -- see below). The reason for this is that while whole wheat contains more nutrients, the bran tears strands of gluten, thus inhibiting gluten development. Furthermore, whole wheat is more absorbent than white flour, necessitating the use of more liquid, creating a stickier dough, which can be challening for novices.
