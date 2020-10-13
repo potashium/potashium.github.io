@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: "My Favorite Flour"
-date: 2019-10-17
+title: "Pride and Prejudice"
+date: 2019-11-10
 ---
 
 *I am starting a new hobby of reading books, borne out of a realization that my day-to-day life is exceedingly boring. I think every remote worker reaches a time in their life when they've watched every Youtube video, smirked at every Reddit meme. At such a time, I've started becoming bored out of my mind, and being the stingy and lazy person I am, I sought a hobby that didn't require money or leaving the house. And so, reading was chosen.*
